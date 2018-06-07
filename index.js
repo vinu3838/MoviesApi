@@ -59,7 +59,7 @@ else
         type: 'GET',
         dataType: 'json',
         async: true,
-        url: 'http://www.omdbapi.com/?t='+title+'&i='+Imdb+'&y='+($('#Year').val())+'&apikey=6c8eeacc',
+        url: 'https://www.omdbapi.com/?t='+title+'&i='+Imdb+'&y='+($('#Year').val())+'&apikey=6c8eeacc',
 
         success: (response) => {
 		
