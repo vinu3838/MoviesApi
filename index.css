@@ -1,0 +1,38 @@
+label
+{
+	
+	width:70px;
+	
+}
+
+
+select
+{
+	
+	width:150px;
+	height:40px;
+	border-radius:10px;
+	
+}
+
+input
+{
+	width:150px;
+	height:40px;
+	border-radius:10px;
+	
+}
+
+.response{
+	
+	border-style:ridge;
+	background-color: #fff;
+	
+}
+
+#myCarousel
+{
+background-color:white;
+}
+
+
